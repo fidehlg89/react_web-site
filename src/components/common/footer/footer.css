@@ -1,0 +1,26 @@
+.footer{
+    background-color: #3f476b;
+    font-size: 14px;
+    min-height: 100px;
+    color: white;
+}
+
+.designby, .copyrightby{
+    margin-top: 20px;
+}
+
+
+.designby{
+    text-align: left;
+    float: left;
+}
+
+.copyrightby{
+    text-align: right;
+    float: right;
+}
+
+.footer .copyrightby a{
+    color: white;
+    text-decoration: none;
+}

@@ -1,0 +1,22 @@
+.project-intro p{
+    text-align: center;
+}
+
+.project-cards{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.project-cards .card{
+    border: 0;
+    width: 23rem;
+    text-align: center;
+    margin: 10px;
+}
+
+.project-cards .card-title{
+    color: #0086a7;
+}
+

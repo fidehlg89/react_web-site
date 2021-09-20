@@ -1,0 +1,88 @@
+/*Section1*/
+#section1{
+    background: -webkit-gradient(linear, left top, left bottom, from(#002e8a), to(#ffffff), color-stop(0.46, #fff));
+}
+
+#section1 .sec_content_main_title {
+    text-align: center;
+    padding-top: 60px;
+    color: white;
+    font-family: arial;
+    font-size: 36px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+#section1 span.sub-title-head {
+    display: contents;
+    font-family: arial;
+    font-size: 28px;
+    font-weight: 500;
+    letter-spacing: -0.5px;
+    color: white;
+}
+
+#section1  .section-subtitle{
+    font-size: 24px;
+}
+
+
+/*Section2*/
+#section2{
+    padding: 45px;
+    background-color: #F5F5F5;
+}
+
+#section2 .sec_content_main_title {
+    text-align: justify;
+    padding-top: 60px;
+    color: #002e8a;
+    font-family: arial;
+    font-size: 26px !important;
+    line-height: 40px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-bottom: 30px !important;
+}
+
+#section2 span.sub-title-head {
+    display: contents;
+    font-family: arial;
+    font-size: 28px;
+    font-weight: 500;
+    letter-spacing: -0.5px;
+    color: #0086a7;
+}
+
+.about img{
+    margin-top: -100px;
+}
+
+/*Section3*/
+#section3 .sec_content_main_title {
+    text-align: center;
+    padding-top: 60px;
+    color: #002e8a;
+    font-family: arial;
+    font-size: 26px !important;
+    line-height: 40px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-bottom: 30px !important;
+}
+
+#section3 span.sub-title-head {
+    display: contents;
+    font-family: arial;
+    font-size: 28px;
+    font-weight: 500;
+    letter-spacing: -0.5px;
+    color: #0086a7;
+}
+
+/*Section4*/
+#section4 {
+    text-align: center;
+    padding: 80px;
+    background-color: #002e8a;
+}

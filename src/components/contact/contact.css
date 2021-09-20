@@ -1,0 +1,19 @@
+.contacts{
+    align-items: center;
+    justify-content: center;
+}
+
+.contact-info{
+    color: white;
+    line-height: 30px;
+}
+
+.get-direction{
+    padding: 30px;
+    background-color: white;
+    box-shadow: 0 5px 25px 0px #e2e2e2;
+}
+
+.get-direction strong{
+    font-size: 14px;
+}

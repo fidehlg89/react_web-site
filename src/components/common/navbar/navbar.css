@@ -1,0 +1,13 @@
+.navbar{
+    float: left;
+}
+
+.navbar-collapse{
+    font-size: 16px;
+    font-weight: 600;
+    justify-content: flex-end;
+}
+
+.navbar-nav .nav-link{
+    color: #6AB8CB !important;
+}
